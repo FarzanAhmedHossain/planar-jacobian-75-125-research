@@ -4,10 +4,10 @@
 
 - 342 direct Python source files from the research workspace.
 - 30 direct Singular input files.
-- A SHA-256 manifest for 398 direct JSON research records and 29 pickle records. The raw payloads remain in the source workspace and are not included in this public snapshot because the initial multi-gigabyte LFS transfer repeatedly failed DNS and made only limited progress; the small curated checker JSON files in `results/` are included.
+- 398 direct JSON research records and 29 pickle records, tracked with Git LFS except for two zero-byte pickle files preserved as ordinary empty blobs.
 - 14 small Markdown progress notes, the F2 band model, compact checker outputs, and all 30 selected direct Singular scripts.
 
-`data/MANIFEST.csv` records original relative paths, intended repository paths, sizes, and SHA-256 hashes for the raw JSON/pickle files. Some records may be partial, superseded, or exploratory; their inventory is for reproducibility and provenance, not an assertion that every artifact is a final proof certificate. Python pickle is executable serialization: load only records from a trusted source.
+`data/MANIFEST.csv` records original relative paths, repository paths, sizes, and SHA-256 hashes for the raw JSON/pickle files. Some records may be partial, superseded, or exploratory; their inclusion is for reproducibility and provenance, not an assertion that every artifact is a final proof certificate. Python pickle is executable serialization: load only records from a trusted source.
 
 ## Excluded
 

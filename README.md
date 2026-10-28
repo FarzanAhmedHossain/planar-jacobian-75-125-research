@@ -20,10 +20,10 @@ See [the factor-strata note](docs/leading-form-factor-strata.md), [the F2 band m
 - `src/singular/`: Singular input scripts.
 - `docs/`: mathematical derivations, proof-scope notes, and dated progress reports.
 - `results/`: small replayable certificates for the top-form audit and corrected-power edge selector.
-- `data/MANIFEST.csv`: SHA-256 inventory of the 398 raw JSON files and 29 pickle records retained in the source workspace. The multi-gigabyte raw payload is not part of this public snapshot; see [data notes](data/README.md).
+- `data/json/`, `data/pkl/`: raw research records tracked with Git LFS; use `git lfs pull` after cloning. `data/MANIFEST.csv` records their source paths, sizes, and SHA-256 hashes.
 - `references/`: bibliography and links to public source work.
 
-The exact file inventory and exclusions are documented in [repository scope](docs/repository-scope.md). The two compact checker JSON outputs in `results/` are included. The larger raw records remain in the source workspace and are listed with hashes in `data/MANIFEST.csv`; they are research records, not proof certificates by themselves. Pickle files should only be loaded from trusted provenance.
+The exact file inventory and exclusions are documented in [repository scope](docs/repository-scope.md). Raw records are research data, not proof certificates by themselves. Pickle files should only be loaded from trusted provenance.
 
 ## Replaying the compact exact checks
 
