@@ -1,0 +1,6 @@
+sympy==1.14.0
+
+# The full research scripts have script-specific dependencies. See source
+# imports and each dated report; optional tools include python-flint, ijson,
+# NumPy, PyOpenCL, gmpy2, and Singular. This file pins only the compact audit
+# dependency verified for the two README replay commands.

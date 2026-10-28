@@ -1,0 +1,839 @@
+{
+  "target": "epsilon^3",
+  "variables": [
+    "z",
+    "gamma",
+    "epsilon",
+    "phi"
+  ],
+  "equations": [
+    "E11",
+    "E12",
+    "E13",
+    "E14",
+    "E15"
+  ],
+  "cofactor_degree_bound": 3,
+  "cofactors": [
+    {
+      "terms": [
+        {
+          "exponents": [
+            3,
+            0,
+            0,
+            0
+          ],
+          "numerator": 1958875,
+          "denominator": 31293
+        },
+        {
+          "exponents": [
+            2,
+            1,
+            0,
+            0
+          ],
+          "numerator": 3566525,
+          "denominator": 43554
+        },
+        {
+          "exponents": [
+            2,
+            0,
+            1,
+            0
+          ],
+          "numerator": 6660175,
+          "denominator": 62586
+        },
+        {
+          "exponents": [
+            2,
+            0,
+            0,
+            1
+          ],
+          "numerator": -2742425,
+          "denominator": 13908
+        },
+        {
+          "exponents": [
+            2,
+            0,
+            0,
+            0
+          ],
+          "numerator": -2565488525,
+          "denominator": 44686404
+        },
+        {
+          "exponents": [
+            1,
+            2,
+            0,
+            0
+          ],
+          "numerator": 75,
+          "denominator": 1
+        },
+        {
+          "exponents": [
+            1,
+            1,
+            1,
+            0
+          ],
+          "numerator": 9637325,
+          "denominator": 83448
+        },
+        {
+          "exponents": [
+            1,
+            1,
+            0,
+            1
+          ],
+          "numerator": -1946525,
+          "denominator": 27816
+        },
+        {
+          "exponents": [
+            1,
+            1,
+            0,
+            0
+          ],
+          "numerator": -7249554875,
+          "denominator": 89372808
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            1,
+            0
+          ],
+          "numerator": -57581695,
+          "denominator": 587979
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0,
+            1
+          ],
+          "numerator": 53205875,
+          "denominator": 2482578
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "numerator": 238601275,
+          "denominator": 9575658
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            1,
+            0
+          ],
+          "numerator": -6616875,
+          "denominator": 275842
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            0,
+            1
+          ],
+          "numerator": -120375,
+          "denominator": 1292
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "numerator": -175,
+          "denominator": 12
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            2,
+            0
+          ],
+          "numerator": 6660175,
+          "denominator": 125172
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            1,
+            1
+          ],
+          "numerator": -2742425,
+          "denominator": 13908
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            1,
+            0
+          ],
+          "numerator": -692462525,
+          "denominator": 44686404
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            2
+          ],
+          "numerator": -1175325,
+          "denominator": 4636
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "numerator": 247873625,
+          "denominator": 3310104
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "numerator": 510041975,
+          "denominator": 38302632
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "numerator": -9810205,
+          "denominator": 375516
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "numerator": 32555485,
+          "denominator": 354654
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "numerator": 276201875,
+          "denominator": 19151316
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            2
+          ],
+          "numerator": 12087925,
+          "denominator": 59109
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "numerator": -473337875,
+          "denominator": 44686404
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "numerator": -525960575,
+          "denominator": 172361844
+        }
+      ]
+    },
+    {
+      "terms": [
+        {
+          "exponents": [
+            1,
+            2,
+            0,
+            0
+          ],
+          "numerator": -214325,
+          "denominator": 20862
+        },
+        {
+          "exponents": [
+            1,
+            1,
+            0,
+            0
+          ],
+          "numerator": 200022875,
+          "denominator": 7447734
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            1,
+            0
+          ],
+          "numerator": -391775,
+          "denominator": 93879
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0,
+            1
+          ],
+          "numerator": 391775,
+          "denominator": 20862
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "numerator": -63658225,
+          "denominator": 7885836
+        },
+        {
+          "exponents": [
+            0,
+            3,
+            0,
+            0
+          ],
+          "numerator": -5975,
+          "denominator": 1292
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            0,
+            1
+          ],
+          "numerator": 391775,
+          "denominator": 6954
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "numerator": 40417825,
+          "denominator": 6383772
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            1,
+            0
+          ],
+          "numerator": 6407665,
+          "denominator": 1595943
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "numerator": -60097325,
+          "denominator": 709308
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "numerator": -250387150,
+          "denominator": 33514803
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "numerator": -266890,
+          "denominator": 281637
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "numerator": 3003200,
+          "denominator": 219051
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "numerator": 1840750,
+          "denominator": 844911
+        }
+      ]
+    },
+    {
+      "terms": [
+        {
+          "exponents": [
+            2,
+            1,
+            0,
+            0
+          ],
+          "numerator": 790775,
+          "denominator": 20862
+        },
+        {
+          "exponents": [
+            1,
+            2,
+            0,
+            0
+          ],
+          "numerator": 5325,
+          "denominator": 68
+        },
+        {
+          "exponents": [
+            1,
+            1,
+            1,
+            0
+          ],
+          "numerator": -1958875,
+          "denominator": 41724
+        },
+        {
+          "exponents": [
+            1,
+            1,
+            0,
+            1
+          ],
+          "numerator": -391775,
+          "denominator": 6954
+        },
+        {
+          "exponents": [
+            1,
+            1,
+            0,
+            0
+          ],
+          "numerator": -1994986825,
+          "denominator": 44686404
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            1,
+            0
+          ],
+          "numerator": 434170705,
+          "denominator": 12767544
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0,
+            1
+          ],
+          "numerator": -64370525,
+          "denominator": 1418616
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "numerator": 762139775,
+          "denominator": 268118424
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            1,
+            0
+          ],
+          "numerator": -175,
+          "denominator": 19
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            0,
+            1
+          ],
+          "numerator": -7875,
+          "denominator": 76
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "numerator": -25,
+          "denominator": 3
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            1,
+            0
+          ],
+          "numerator": 332655625,
+          "denominator": 14895468
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "numerator": 159890425,
+          "denominator": 4965156
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "numerator": 135677375,
+          "denominator": 33514803
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "numerator": 391775,
+          "denominator": 125172
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "numerator": -391775,
+          "denominator": 13908
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "numerator": -389621860,
+          "denominator": 33514803
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            2
+          ],
+          "numerator": 391775,
+          "denominator": 4636
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "numerator": -45677375,
+          "denominator": 9930312
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "numerator": 84730225,
+          "denominator": 114907896
+        }
+      ]
+    },
+    {
+      "terms": [
+        {
+          "exponents": [
+            2,
+            0,
+            0,
+            0
+          ],
+          "numerator": -95201325,
+          "denominator": 4636
+        },
+        {
+          "exponents": [
+            1,
+            1,
+            0,
+            0
+          ],
+          "numerator": -51721335,
+          "denominator": 1159
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "numerator": 570878280,
+          "denominator": 19703
+        },
+        {
+          "exponents": [
+            0,
+            3,
+            0,
+            0
+          ],
+          "numerator": 688905,
+          "denominator": 76
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "numerator": -272015415,
+          "denominator": 78812
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            1,
+            0
+          ],
+          "numerator": -95201325,
+          "denominator": 4636
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "numerator": 285603975,
+          "denominator": 2318
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "numerator": 849108285,
+          "denominator": 78812
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "numerator": 770245551,
+          "denominator": 78812
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "numerator": -922918860,
+          "denominator": 19703
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "numerator": -110347335,
+          "denominator": 19703
+        }
+      ]
+    },
+    {
+      "terms": [
+        {
+          "exponents": [
+            1,
+            2,
+            0,
+            0
+          ],
+          "numerator": -2066715,
+          "denominator": 76
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "numerator": 338332545,
+          "denominator": 275842
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "numerator": -98415,
+          "denominator": 1292
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "numerator": 145687005,
+          "denominator": 4636
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "numerator": 224948745,
+          "denominator": 78812
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "numerator": 18156717,
+          "denominator": 551684
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "numerator": 443950065,
+          "denominator": 137921
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "numerator": -48479715,
+          "denominator": 39406
+        }
+      ]
+    }
+  ]
+}

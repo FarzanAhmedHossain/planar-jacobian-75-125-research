@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this research archive, cite the repository and the specific source reports or scripts used."
+title: "Planar Jacobian Conjecture Research: Exact Reductions and Computational Records at the (75,125) Frontier"
+authors:
+  - family-names: Hossain
+    given-names: "Farzan Ahmed"
+repository-code: "https://github.com/FarzanAhmedHossain/planar-jacobian-75-125-research"
+abstract: "Research notes and computational records for the planar Jacobian degree pair (75,125). The archive does not claim that this pair is excluded."

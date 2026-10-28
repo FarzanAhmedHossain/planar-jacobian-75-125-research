@@ -1,0 +1,4 @@
+data/json/** filter=lfs diff=lfs merge=lfs -text
+data/pkl/** filter=lfs diff=lfs merge=lfs -text
+data/pkl/direct/f2_75_125_sparse_ring_lift_211_tuned.pkl -filter -diff -merge text
+data/pkl/direct/f2_75_125_sparse_ring_lift_22.pkl -filter -diff -merge text

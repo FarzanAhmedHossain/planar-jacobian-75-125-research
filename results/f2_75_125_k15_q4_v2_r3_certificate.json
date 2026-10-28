@@ -1,0 +1,263 @@
+{
+  "target": "epsilon",
+  "variables": [
+    "z",
+    "epsilon",
+    "phi"
+  ],
+  "equations": [
+    "A11",
+    "A12",
+    "A13",
+    "A14",
+    "A15"
+  ],
+  "cofactor_degree_bound": 2,
+  "cofactors": [
+    {
+      "terms": [
+        {
+          "exponents": [
+            2,
+            0,
+            0
+          ],
+          "numerator": 105784,
+          "denominator": 153807
+        },
+        {
+          "exponents": [
+            1,
+            1,
+            0
+          ],
+          "numerator": 277918,
+          "denominator": 153807
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            1
+          ],
+          "numerator": -399346,
+          "denominator": 153807
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0
+          ],
+          "numerator": -3512882,
+          "denominator": 4152789
+        },
+        {
+          "exponents": [
+            0,
+            2,
+            0
+          ],
+          "numerator": -12328,
+          "denominator": 461421
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            1
+          ],
+          "numerator": 21330,
+          "denominator": 51269
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0
+          ],
+          "numerator": -1482724,
+          "denominator": 1384263
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            2
+          ],
+          "numerator": -22749,
+          "denominator": 51269
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1
+          ],
+          "numerator": 1237691,
+          "denominator": 461421
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0
+          ],
+          "numerator": 576688,
+          "denominator": 4152789
+        }
+      ]
+    },
+    {
+      "terms": [
+        {
+          "exponents": [
+            1,
+            0,
+            0
+          ],
+          "numerator": 259336,
+          "denominator": 1384263
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0
+          ],
+          "numerator": 81506,
+          "denominator": 12458367
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1
+          ],
+          "numerator": -18004,
+          "denominator": 1384263
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0
+          ],
+          "numerator": -155102,
+          "denominator": 37375101
+        }
+      ]
+    },
+    {
+      "terms": [
+        {
+          "exponents": [
+            1,
+            1,
+            0
+          ],
+          "numerator": 9002,
+          "denominator": 461421
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            1
+          ],
+          "numerator": 4745,
+          "denominator": 153807
+        },
+        {
+          "exponents": [
+            1,
+            0,
+            0
+          ],
+          "numerator": 2627224,
+          "denominator": 4152789
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0
+          ],
+          "numerator": 243229,
+          "denominator": 461421
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1
+          ],
+          "numerator": -1189682,
+          "denominator": 461421
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0
+          ],
+          "numerator": -1442287,
+          "denominator": 12458367
+        }
+      ]
+    },
+    {
+      "terms": [
+        {
+          "exponents": [
+            1,
+            0,
+            0
+          ],
+          "numerator": -144172,
+          "denominator": 1384263
+        },
+        {
+          "exponents": [
+            0,
+            1,
+            0
+          ],
+          "numerator": 9490,
+          "denominator": 12458367
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            1
+          ],
+          "numerator": -27494,
+          "denominator": 1384263
+        },
+        {
+          "exponents": [
+            0,
+            0,
+            0
+          ],
+          "numerator": 548387,
+          "denominator": 37375101
+        }
+      ]
+    },
+    {
+      "terms": [
+        {
+          "exponents": [
+            0,
+            0,
+            0
+          ],
+          "numerator": 0,
+          "denominator": 1
+        }
+      ]
+    }
+  ]
+}
